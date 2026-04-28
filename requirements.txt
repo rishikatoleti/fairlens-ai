@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+fairlearn
+matplotlib
+seaborn
+shap==0.44.1

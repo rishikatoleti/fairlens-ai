@@ -1,0 +1,16 @@
+age,gender,education_level,experience_years,salary,hired,prediction
+25,Male,Bachelors,2,45000,1,1
+30,Female,Masters,5,65000,1,1
+45,Male,PhD,15,120000,1,1
+22,Female,Bachelors,1,40000,0,0
+35,Male,Bachelors,10,85000,1,0
+28,Female,Bachelors,4,50000,0,1
+40,Male,Masters,12,95000,1,1
+32,Female,PhD,7,110000,1,1
+24,Male,Bachelors,2,42000,0,0
+29,Female,Masters,6,68000,1,1
+50,Male,Bachelors,25,130000,1,1
+21,Female,Bachelors,0,35000,0,0
+36,Male,Masters,11,92000,1,1
+27,Female,Bachelors,3,48000,0,0
+42,Male,PhD,18,125000,1,1
